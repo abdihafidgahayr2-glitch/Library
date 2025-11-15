@@ -111,7 +111,7 @@ public class Main {
         System.out.print("Enter title to search: ");
         String search = keyboard.nextLine().toLowerCase();
 
-        System.out.println("Search resultshhhh:");
+        System.out.println("Search results:");
         boolean found = false;
         for (Book book : books) {
             if (book.getTitle().toLowerCase().contains(search)) {
