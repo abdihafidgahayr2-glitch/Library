@@ -10,40 +10,45 @@ public class Main {
     private List<Book> books = new ArrayList<>();
     private Scanner keyboard = new Scanner(System.in);
 
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         Main app = new Main();
         app.start();
     }
 
-    public void start() throws Exception {
+    public void start() {
         System.out.println("Starting Library System...");
         loadBooks();
         showMenu();
     }
 
-    public void loadBooks() throws Exception {
-        BufferedReader reader = new BufferedReader(new FileReader("src/main/java/org/example/sample_10.csv"));
-        String line;
-        reader.readLine(); // skip header
+    public void loadBooks() {
+        try {
+            BufferedReader reader = new BufferedReader(new FileReader("src/main/java/org/example/sample_10.csv"));
+            String line;
+            reader.readLine(); // skip header
 
-        int count = 0;
-        while ((line = reader.readLine()) != null) {
-            String[] data = line.split(",");
-            if (data.length >= 9) {
-                Book book = new Book(
-                        data[0], data[1], data[2], data[3],
-                        Integer.parseInt(data[4]),
-                        Double.parseDouble(data[5]),
-                        Boolean.parseBoolean(data[6]),
-                        LocalDate.parse(data[7]),
-                        LocalDateTime.parse(data[8])
-                );
-                books.add(book);
-                count++;
+            int count = 0;
+            while ((line = reader.readLine()) != null) {
+                String[] data = line.split(",");
+                if (data.length >= 9) {
+                    Book book = new Book(
+                            data[0], data[1], data[2], data[3],
+                            Integer.parseInt(data[4]),
+                            Double.parseDouble(data[5]),
+                            Boolean.parseBoolean(data[6]),
+                            LocalDate.parse(data[7]),
+                            LocalDateTime.parse(data[8])
+                    );
+                    books.add(book);
+                    count++;
+                }
             }
+            reader.close();
+            System.out.println(count + " books");
         }
-        reader.close();
-        System.out.println(count + " books");
+        catch (Exception e) {
+            System.out.println("Error loading books file");
+        }
     }
 
     public void showMenu() {
