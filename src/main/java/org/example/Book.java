@@ -14,6 +14,9 @@ public class Book implements Comparable<Book> {
     private LocalDate publishDate;
     private LocalDateTime lastUpdated;
 
+    public Book() {
+    }
+
     public Book(String bookId, String title, String author, String genre,
                 int year, double price, boolean available,
                 LocalDate publishDate, LocalDateTime lastUpdated) {
