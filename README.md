@@ -1,6 +1,6 @@
 Library System - Stage 1 Report
 What I Built
-A simple library program that stores books and lets users:
+A library program that stores books and lets users:
 
 View all books
 
@@ -38,7 +38,7 @@ How to use ArrayLists and sorting in Java
 
 How to read from CSV files
 
-How to create a menu system
+How to do error handling
 
 How to write simple tests
 
