@@ -19,7 +19,7 @@ public class Main {
         System.out.println("Starting Library System...");
         loadBooks();
         showMenu();
-        int x=0;
+        int x=10;
     }
 
 
