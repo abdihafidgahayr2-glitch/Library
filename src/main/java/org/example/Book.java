@@ -114,6 +114,7 @@ public class Book implements Comparable<Book> {
         lastUpdated = LocalDateTime.now();
     }
 
+
     // Natural order by title
     @Override
     public int compareTo(Book other) {

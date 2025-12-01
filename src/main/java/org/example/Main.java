@@ -19,11 +19,13 @@ public class Main {
         System.out.println("Starting Library System...");
         loadBooks();
         showMenu();
+        int x=0;
     }
+
 
     public void loadBooks() {
         try {
-            BufferedReader reader = new BufferedReader(new FileReader("src/main/java/org/example/sample_10.csv"));
+            BufferedReader reader = new BufferedReader(new FileReader("src/main/java/org/example/dataset_1000.csv"));
             String line;
             reader.readLine(); // skip header
 
