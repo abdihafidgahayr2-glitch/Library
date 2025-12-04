@@ -63,7 +63,8 @@ public class Main {
             System.out.println("5. Show available books");
             System.out.println("6. Borrow a book");
             System.out.println("7. Return a book");
-            System.out.println("8. Exit");
+            System.out.println("8. Find Duplicates");
+            System.out.println("9. Exit");
             System.out.print("Choose option: ");
 
             int choice = keyboard.nextInt();
@@ -92,6 +93,9 @@ public class Main {
                     returnBook();
                     break;
                 case 8:
+                    findDuplicates();
+                    break;
+                case 9:
                     System.out.println("Goodbye!");
                     return;
                 default:
@@ -214,4 +218,14 @@ public class Main {
             System.out.println("Invalid book number");
         }
     }
+    public void findDuplicates() {
+        //HashSet removes duplicates
+        Set<Book> uniqBooks = new HashSet<>(books);
+
+        System.out.println("Duplicates");
+        System.out.println("Total books loaded: " + books.size());
+        System.out.println("Unique books found: " + uniqBooks.size());
+        System.out.println("Duplicates removed: " + (books.size() - uniqBooks.size()));
+    }
+
 }
