@@ -2,6 +2,7 @@ package org.example;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
+import java.util.Objects;
 
 public class Book implements Comparable<Book> {
     private String bookId;
@@ -20,6 +21,21 @@ public class Book implements Comparable<Book> {
     public Book(String bookId, String title, String author, String genre,
                 int year, double price, boolean available,
                 LocalDate publishDate, LocalDateTime lastUpdated) {
+
+        // VALIDATION:
+        if (bookId == null || bookId.trim().isEmpty()) {
+            throw new IllegalArgumentException("Book ID cannot be empty");
+        }
+        if (title == null || title.trim().isEmpty()) {
+            throw new IllegalArgumentException("Title cannot be empty");
+        }
+        if (year < 1450 || year > LocalDate.now().getYear()) {
+            throw new IllegalArgumentException("Invalid year: " + year);
+        }
+        if (price < 0) {
+            throw new IllegalArgumentException("Price cannot be negative: " + price);
+        }
+
         this.bookId = bookId;
         this.title = title;
         this.author = author;
@@ -103,7 +119,7 @@ public class Book implements Comparable<Book> {
         this.publishDate = publishDate;
     }
 
-    // Simple methods
+    // methods
     public void borrowBook() {
         available = false;
         lastUpdated = LocalDateTime.now();
@@ -112,6 +128,26 @@ public class Book implements Comparable<Book> {
     public void returnBook() {
         available = true;
         lastUpdated = LocalDateTime.now();
+    }
+
+
+    @Override
+    public boolean equals(Object o) {
+        //Check if o is actually a Book object
+        if (!(o instanceof Book))
+            return false;
+
+        //Convert o to a Book object
+        Book other = (Book) o;
+
+        //Compare book ids casesensitive comparison
+        return bookId.equals(other.bookId);
+    }
+
+    @Override
+    public int hashCode() {
+        //Create hash code only on bookId
+        return Objects.hash(bookId);
     }
 
 
