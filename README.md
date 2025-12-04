@@ -1,52 +1,71 @@
-Library System - Stage 1 Report
-What I Built
-A library program that stores books and lets users:
+# Library System - Stage 1
+## What I Built
+### A library program that stores books and lets users:
 
-View all books
+- View all books
 
-Search books by title
+- Search books by title
 
-Sort books by title or price
+- Sort books by title or price
 
-See available books
+- See available books
 
-Borrow and return books
+- Borrow and return books
 
-How It Works
-Loads 10 books from a CSV file
+### How It Works
+- Loads 10 books from sample_10.csv file
 
-Uses ArrayList to store books
+- Uses ArrayList to store all books
 
-Books can be sorted by title (natural order) or price (custom order)
+- Books sort by title (normal way) or price (special way)
 
-Simple menu system for easy use
+- Easy menu system with options 1-8
 
-Error Handling
-Checks if file exists
+### Error Handling
+- Checks if file exists
 
-Makes sure book numbers are valid
+- Makes sure book numbers are valid (1, 2, 3...)
 
-Handles empty book lists
+- Handles empty book lists
 
-Testing
-4 tests to check book creation, sorting, and borrowing
+- Won't crash on bad input
 
-Tests both title and price sorting
+### Testing
+- 4 JUnit tests
 
-What I Learned
-How to use ArrayLists and sorting in Java
+- Tests book creation and sorting
 
-How to read from CSV files
+- Tests both title and price sorting
 
-How to do error handling
+- Tests borrow/return functions
 
-How to write simple tests
+### What I Learned
+- How to sort books two different ways  by title normal way and by price special way
 
-My Work (100%)
-All code written by me
+- How to read different data types from files  converting text to numbers dates and true/false values
 
-Book class with 9 fields
+- How to make a complete Book class with all needed fields validation and business methods
 
-Complete menu system
+- How to build a full menu system that handles user choices without crashing
 
-File loading and tests
+# Stage 2 
+
+### What I Added:
+1. equals() and hashCode()methods in Book class
+    - Books with same ID are considered equal
+    - Helps HashSet remove duplicates
+
+
+2. Duplicate detection feature
+    - Menu option 8: Find duplicates
+    - Shows total books vs unique books
+    - Counts how many duplicates were found
+
+
+3. Validation in Book constructor
+    - Checks for empty titles, negative prices
+    - Validates year ranges
+    - Shows error messages for bad data
+
+
+
