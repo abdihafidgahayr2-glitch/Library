@@ -9,994 +9,195 @@ B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-1
 B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
 B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
 B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B001,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B002,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B003,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B004,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B005,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B006,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-
+B011,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
+B012,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
+B013,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
+B014,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
+B015,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
+B016,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
+B017,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
+B018,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
+B019,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
+B020,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
+B021,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
+B022,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
+B023,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
+B024,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
+B025,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
+B026,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
+B027,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
+B028,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
+B029,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
+B030,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
+B031,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
+B032,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
+B033,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
+B034,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
+B035,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
+B036,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
+B037,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
+B038,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
+B039,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
+B040,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
+B041,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
+B042,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
+B043,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
+B044,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
+B045,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
+B046,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
+B047,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
+B048,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
+B049,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
+B050,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
+B051,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
+B052,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
+B053,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
+B054,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
+B055,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
+B056,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
+B057,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
+B058,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
+B059,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
+B060,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
+B061,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
+B062,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
+B063,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
+B064,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
+B065,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
+B066,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
+B067,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
+B068,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
+B069,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
+B070,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
+B071,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
+B072,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
+B073,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
+B074,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
+B075,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
+B076,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
+B077,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
+B078,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
+B079,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
+B080,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
+B081,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
+B082,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
+B083,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
+B084,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
+B085,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
+B086,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
+B087,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
+B088,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
+B089,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
+B090,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
+B091,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
+B092,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
+B093,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
+B094,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
+B095,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
+B096,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
+B097,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
+B098,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
+B099,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
+B100,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
+B101,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
+B102,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
+B103,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
+B104,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
+B105,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
+B106,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
+B107,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
+B108,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
+B109,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
+B110,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
+B111,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
+B112,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
+B113,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
+B114,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
+B115,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
+B116,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
+B117,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
+B118,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
+B119,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
+B120,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
+B121,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
+B122,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
+B123,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
+B124,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
+B125,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
+B126,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
+B127,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
+B128,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
+B129,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
+B130,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
+B131,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
+B132,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
+B133,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
+B134,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
+B135,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
+B136,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
+B137,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
+B138,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
+B139,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
+B140,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
+B141,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
+B142,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
+B143,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
+B144,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
+B145,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
+B146,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
+B147,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
+B148,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
+B149,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
+B150,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
+B151,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
+B152,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
+B153,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
+B154,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
+B155,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
+B156,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
+B157,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
+B158,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
+B159,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
+B160,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
+B161,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
+B162,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
+B163,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
+B164,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
+B165,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
+B166,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
+B167,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
+B168,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
+B169,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
+B170,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
+B171,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
+B172,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
+B173,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
+B174,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
+B175,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
+B176,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
+B177,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
+B178,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
+B179,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
+B180,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
+B181,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
+B182,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
+B183,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
+B184,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
+B185,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
+B186,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
+B187,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
+B188,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
+B189,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
+B190,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
+B191,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
+B192,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
+B193,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
+B194,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
+B195,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
+B196,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
+B197,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
+B198,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
+B199,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
+B200,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
+B999,,Empty Title,Author,Fiction,2020,15.99,true,2020-01-01,2024-01-01T10:00:00
+B1000,No Author,,Fiction,1300,-5.99,true,2020-01-01,2024-01-01T10:00:00
