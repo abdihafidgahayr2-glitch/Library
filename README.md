@@ -40,13 +40,10 @@
 - Tests borrow/return functions
 
 ### What I Learned
-- How to sort books two different ways  by title normal way and by price special way
-
-- How to read different data types from files  converting text to numbers dates and true/false values
-
-- How to make a complete Book class with all needed fields validation and business methods
-
-- How to build a full menu system that handles user choices without crashing
+- I learned to sort books two ways  by title books natural order and by price custom order I create.
+- Comparable sorts by title  books automatically arrange A-Z using their compareTo method.
+- Comparator sorts by price  I make special rules telling books how to order by price.
+- I now know when to use each  Comparable for default sorting Comparator for special sorting needs.
 
 # Stage 2 
 
@@ -68,4 +65,27 @@
     - Shows error messages for bad data
 
 
+#### 4. Fast book lookup with HashMap
+- Menu option 9: "Find book by ID"
+- Instantly finds books by ID without searching through all books
 
+
+#### 5. Advanced search features
+- Menu option 10: "Find books by year range" - finds books published between specific years
+- Menu option 11: "Show most expensive books" - shows top N most expensive books
+
+
+#### 6. CSV export feature
+- Menu option 12: "Export to CSV"
+- Creates new CSV files with all book data
+- Files include timestamps to avoid overwriting
+
+
+#### 7. Enhanced testing
+- 9 comprehensive JUnit tests
+- Tests validation, equals/hashCode, and edge cases
+- Covers all new Stage 2 features
+
+### Data Files
+- `sample_10.csv` - 10 books for Stage 1 testing
+- `dataset_1000.csv` - 1000 books for Stage 2 testing
