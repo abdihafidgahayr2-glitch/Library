@@ -9,195 +9,493 @@ B007,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-1
 B008,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
 B009,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
 B010,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B011,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B012,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B013,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B014,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B015,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B016,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B017,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B018,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B019,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B020,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B021,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B022,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B023,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B024,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B025,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B026,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B027,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B028,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B029,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B030,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B031,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B032,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B033,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B034,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B035,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B036,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B037,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B038,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B039,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B040,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B041,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B042,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B043,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B044,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B045,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B046,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B047,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B048,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B049,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B050,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B051,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B052,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B053,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B054,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B055,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B056,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B057,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B058,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B059,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B060,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B061,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B062,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B063,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B064,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B065,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B066,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B067,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B068,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B069,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B070,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B071,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B072,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B073,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B074,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B075,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B076,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B077,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B078,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B079,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B080,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B081,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B082,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B083,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B084,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B085,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B086,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B087,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B088,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B089,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B090,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B091,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B092,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B093,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B094,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B095,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B096,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B097,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B098,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B099,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B100,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B101,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B102,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B103,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B104,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B105,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B106,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B107,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B108,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B109,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B110,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B111,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B112,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B113,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B114,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B115,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B116,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B117,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B118,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B119,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B120,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B121,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B122,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B123,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B124,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B125,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B126,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B127,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B128,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B129,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B130,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B131,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B132,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B133,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B134,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B135,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B136,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B137,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B138,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B139,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B140,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B141,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B142,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B143,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B144,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B145,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B146,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B147,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B148,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B149,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B150,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B151,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B152,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B153,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B154,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B155,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B156,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B157,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B158,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B159,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B160,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B161,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B162,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B163,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B164,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B165,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B166,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B167,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B168,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B169,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B170,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B171,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B172,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B173,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B174,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B175,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B176,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B177,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B178,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B179,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B180,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B181,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B182,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B183,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B184,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B185,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B186,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B187,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B188,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B189,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B190,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B191,Harry Potter,J.K. Rowling,Fantasy,1997,15.99,true,1997-06-26,2024-01-15T10:00:00
-B192,The Hobbit,J.R.R. Tolkien,Fantasy,1937,12.50,true,1937-09-21,2024-01-15T11:00:00
-B193,1984,George Orwell,Fiction,1949,10.99,false,1949-06-08,2024-01-14T09:00:00
-B194,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,true,1951-07-16,2024-01-15T12:00:00
-B195,To Kill a Mockingbird,Harper Lee,Fiction,1960,14.50,true,1960-07-11,2024-01-16T14:00:00
-B196,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,11.99,false,1925-04-10,2024-01-13T16:00:00
-B197,Pride and Prejudice,Jane Austen,Romance,1813,8.99,true,1813-01-28,2024-01-16T10:30:00
-B198,The Da Vinci Code,Dan Brown,Mystery,2003,13.75,true,2003-03-18,2024-01-15T15:45:00
-B199,Dune,Frank Herbert,Science Fiction,1965,16.25,true,1965-08-01,2024-01-16T11:20:00
-B200,The Alchemist,Paulo Coelho,Fiction,1988,7.99,false,1988-01-01,2024-01-14T13:15:00
-B999,,Empty Title,Author,Fiction,2020,15.99,true,2020-01-01,2024-01-01T10:00:00
-B1000,No Author,,Fiction,1300,-5.99,true,2020-01-01,2024-01-01T10:00:00
+B011,Echoes of Tomorrow,Eleanor Vance,Science Fiction,2021,19.99,true,2021-03-14,2024-01-12T09:45:00
+B012,Crimson Shadows,Arthur Black,Mystery,2018,14.25,true,2018-09-05,2024-01-14T16:20:00
+B013,Whispers in the Dark,Maya Chen,Thriller,2019,13.50,false,2019-11-22,2024-01-11T11:30:00
+B014,The Silent Witness,Thomas Reed,Crime,2015,12.99,true,2015-04-18,2024-01-15T14:10:00
+B015,Beyond the Horizon,Rebecca Stone,Fiction,2020,16.75,true,2020-07-30,2024-01-16T13:25:00
+B016,The Forgotten Kingdom,Samuel Grant,Fantasy,2017,18.50,true,2017-05-12,2024-01-13T10:15:00
+B017,Threads of Fate,Isabella Rossi,Romance,2016,9.99,false,2016-02-14,2024-01-14T12:45:00
+B018,Quantum Dawn,Leonard Kim,Science Fiction,2022,21.00,true,2022-10-10,2024-01-16T09:30:00
+B019,The Glass House,Patricia Wells,Mystery,2014,11.25,true,2014-08-07,2024-01-12T15:40:00
+B020,Autumn Leaves,William Carter,Fiction,2011,10.50,true,2011-09-21,2024-01-15T08:20:00
+B021,Dragons of Eldoria,Robert Silver,Fantasy,2019,17.99,true,2019-06-15,2024-01-14T17:30:00
+B022,The Midnight Call,Victoria Cross,Mystery,2020,13.75,false,2020-03-08,2024-01-11T14:25:00
+B023,Celestial Bodies,Dr. Alan Shore,Science Fiction,2018,19.25,true,2018-11-30,2024-01-16T16:45:00
+B024,Hearts Entwined,Sophia Martinez,Romance,2015,8.50,true,2015-01-29,2024-01-13T11:10:00
+B025,The Last Ember,David Mitchell,Historical Fiction,2013,14.99,true,2013-07-04,2024-01-15T13:50:00
+B026,Shadows of the Past,Amanda Grey,Thriller,2017,15.25,true,2017-10-31,2024-01-14T10:05:00
+B027,The Infinite Loop,Professor Charles Qin,Science Fiction,2021,20.50,true,2021-12-01,2024-01-16T12:15:00
+B028,The Sapphire Key,Elizabeth Thorn,Mystery,2016,12.99,false,2016-04-22,2024-01-12T13:35:00
+B029,Winds of Change,Michael O'Connell,Fiction,2014,11.75,true,2014-05-17,2024-01-15T09:40:00
+B030,Realms Beyond,Christopher Ward,Fantasy,2020,18.99,true,2020-08-25,2024-01-14T14:55:00
+B031,The Hidden Truth,Sarah Jenkins,Crime,2019,13.25,true,2019-02-14,2024-01-16T08:10:00
+B032,Starlight Serenade,Jennifer Lee,Romance,2018,9.25,true,2018-07-19,2024-01-13T15:20:00
+B033,Neural Networks,Dr. Richard Moss,Science Fiction,2022,22.99,true,2022-04-12,2024-01-15T17:30:00
+B034,The Crimson Letter,Henry James,Historical Fiction,2012,12.50,false,2012-10-05,2024-01-11T16:45:00
+B035,Whispering Pines,Emma Richardson,Mystery,2015,14.99,true,2015-03-27,2024-01-14T11:25:00
+B036,The Artisan's Touch,Oliver Grant,Fiction,2017,15.50,true,2017-12-03,2024-01-16T15:40:00
+B037,Fire and Frost,Daniela Rossi,Fantasy,2021,19.75,true,2021-09-08,2024-01-13T09:55:00
+B038,The Silent Echo,Benjamin Clark,Thriller,2016,16.25,false,2016-06-15,2024-01-12T12:30:00
+B039,Galactic Frontiers,Dr. Susan Park,Science Fiction,2019,21.50,true,2019-04-18,2024-01-15T14:20:00
+B040,Love's Journey,Rachel Adams,Romance,2014,8.99,true,2014-02-28,2024-01-14T13:15:00
+B041,The Clockmaker's Secret,Jonathan Mills,Mystery,2013,13.25,true,2013-11-11,2024-01-16T10:45:00
+B042,Paper Dreams,Thomas Wright,Fiction,2010,10.99,true,2010-08-09,2024-01-13T14:35:00
+B043,Dawn of the Ancients,Katherine Bell,Fantasy,2018,17.25,true,2018-01-25,2024-01-15T11:50:00
+B044,The Digital Ghost,Alex Chen,Science Fiction,2020,18.50,false,2020-05-06,2024-01-12T17:10:00
+B045,Fatal Evidence,Laura Simmons,Crime,2017,14.75,true,2017-07-23,2024-01-14T15:25:00
+B046,Everlasting Promise,Marcus Johnson,Romance,2015,9.50,true,2015-12-01,2024-01-16T13:30:00
+B047,The Lost Expedition,Professor Alan Reed,Adventure,2016,16.99,true,2016-09-14,2024-01-13T10:40:00
+B048,Shadows on the Wall,Victoria Black,Mystery,2014,12.25,true,2014-06-30,2024-01-15T16:15:00
+B049,The Memory Keeper,Samantha Lee,Fiction,2019,15.00,false,2019-10-10,2024-01-11T15:50:00
+B050,Crystal Kingdom,Robert Drake,Fantasy,2021,20.25,true,2021-02-28,2024-01-14T12:05:00
+B051,The Quantum Thief,Dr. Lisa Wong,Science Fiction,2018,19.99,true,2018-03-15,2024-01-16T09:20:00
+B052,Deadly Intentions,Frank Marino,Thriller,2015,13.99,true,2015-08-12,2024-01-13T16:45:00
+B053,Hearts of Gold,Sophie Martin,Romance,2017,8.75,false,2017-04-05,2024-01-12T14:30:00
+B054,The Iron Gate,Edward Stone,Historical Fiction,2013,14.25,true,2013-12-19,2024-01-15T10:55:00
+B055,Whispers from Beyond,Amanda Cross,Mystery,2020,15.75,true,2020-11-26,2024-01-14T17:40:00
+B056,The Programmer's Paradox,Dr. Kenji Tanaka,Science Fiction,2022,23.50,true,2022-07-07,2024-01-16T14:15:00
+B057,The Glass Heart,Clara Bennett,Fiction,2016,11.50,true,2016-05-18,2024-01-13T12:25:00
+B058,Realms of Fire,George Martin,Fantasy,2014,16.99,true,2014-10-03,2024-01-15T15:30:00
+B059,The Perfect Crime,Richard Doyle,Crime,2018,14.50,false,2018-12-12,2024-01-11T17:20:00
+B060,Autumn Romance,Isabelle Laurent,Romance,2019,9.99,true,2019-06-22,2024-01-14T09:45:00
+B061,The Last Stand,Michael West,Adventure,2015,17.25,true,2015-02-14,2024-01-16T11:10:00
+B062,Echoes in the Mist,Eleanor Shaw,Mystery,2017,13.25,true,2017-09-09,2024-01-13T15:50:00
+B063,Neptune's Daughter,Sarah Ocean,Fantasy,2020,18.75,true,2020-04-17,2024-01-15T12:40:00
+B064,The Silicon Dream,Professor Mark Liu,Science Fiction,2021,21.99,true,2021-08-29,2024-01-14T14:05:00
+B065,Broken Vows,Anthony Grey,Fiction,2012,10.25,false,2012-03-23,2024-01-12T11:35:00
+B066,The Secret Admirer,Julia Rose,Romance,2016,8.50,true,2016-07-07,2024-01-16T16:20:00
+B067,Dark Waters,Benjamin Rivers,Thriller,2019,16.50,true,2019-01-15,2024-01-13T09:30:00
+B068,The Forgotten City,Alexander Vance,Historical Fiction,2014,15.25,true,2014-11-08,2024-01-15T13:15:00
+B069,Starlight Chronicles,Dr. Emily White,Science Fiction,2018,20.75,true,2018-05-26,2024-01-14T10:50:00
+B070,The Vanishing Act,Patricia Cole,Mystery,2015,12.99,true,2015-09-30,2024-01-16T12:35:00
+B071,Paper Hearts,Robert James,Fiction,2011,9.75,true,2011-06-14,2024-01-13T14:20:00
+B072,Dragon's Breath,Karen Stone,Fantasy,2017,17.50,false,2017-03-03,2024-01-11T13:45:00
+B073,The Final Equation,Dr. Alan Turing,Science Fiction,2019,22.25,true,2019-12-25,2024-01-15T17:05:00
+B074,Deadly Secrets,Laura Parker,Crime,2016,14.00,true,2016-08-20,2024-01-14T15:10:00
+B075,Summer Breeze,Megan Taylor,Romance,2018,9.25,true,2018-02-14,2024-01-16T08:40:00
+B076,The Lost Temple,Professor Henry Jones,Adventure,2013,16.50,true,2013-05-05,2024-01-13T11:55:00
+B077,The Silent Partner,Victoria Reed,Mystery,2014,13.75,false,2014-07-17,2024-01-12T16:30:00
+B078,The Weaver's Tale,Samuel Loomis,Fiction,2015,12.25,true,2015-04-08,2024-01-15T14:45:00
+B079,Moonlight Kingdom,Jennifer Star,Fantasy,2020,19.50,true,2020-10-31,2024-01-14T12:20:00
+B080,The Android's Dream,Dr. Sarah Connor,Science Fiction,2021,24.99,true,2021-06-12,2024-01-16T13:55:00
+B081,Fatal Mistake,Franklin Burke,Thriller,2017,15.99,true,2017-11-11,2024-01-13T17:00:00
+B082,Winter's Promise,Christine Snow,Romance,2016,8.99,true,2016-12-01,2024-01-15T10:25:00
+B083,The Ancient Map,Thomas Cartographer,Adventure,2012,15.75,false,2012-09-19,2024-01-11T14:40:00
+B084,The Glass Eye,Amanda Glass,Mystery,2019,14.50,true,2019-08-08,2024-01-14T16:15:00
+B085,City of Dreams,David Metropolis,Fiction,2018,13.25,true,2018-06-24,2024-01-16T11:50:00
+B086,Fire Drake Chronicles,Robert Ember,Fantasy,2015,16.99,true,2015-01-17,2024-01-13T10:05:00
+B087,The Memory Chip,Dr. Ken Sato,Science Fiction,2022,25.50,true,2022-03-03,2024-01-15T15:20:00
+B088,Blood Evidence,Linda Forensics,Crime,2014,13.99,true,2014-12-05,2024-01-14T13:30:00
+B089,Second Chance Love,Anna Hope,Romance,2017,9.50,false,2017-05-20,2024-01-12T12:55:00
+B090,The Sunken Ship,Captain John Mariner,Adventure,2013,17.25,true,2013-08-14,2024-01-16T14:40:00
+B091,The Locked Room,Edgar Myst,Mystery,2016,12.75,true,2016-03-29,2024-01-13T15:15:00
+B092,Rivers of Time,Victoria Stream,Fiction,2011,11.25,true,2011-10-10,2024-01-15T12:10:00
+B093,Elven Woods,Legolas Green,Fantasy,2019,18.25,true,2019-07-07,2024-01-14T09:35:00
+B094,The Singularity,Dr. Ray Kurzweil,Science Fiction,2020,26.99,true,2020-09-09,2024-01-16T17:25:00
+B095,The Perfect Alibi,Richard Law,Crime,2015,15.25,true,2015-06-18,2024-01-13T14:45:00
+B096,Love in Paris,Claire French,Romance,2018,10.50,true,2018-04-13,2024-01-15T16:50:00
+B097,The Hidden Treasure,Jack Adventure,Adventure,2014,16.75,false,2014-02-27,2024-01-11T15:35:00
+B098,The Missing Heiress,Agatha Mystery,Mystery,2017,14.25,true,2017-12-25,2024-01-14T11:40:00
+B099,Sand and Stone,Peter Builder,Fiction,2012,12.50,true,2012-05-22,2024-01-16T09:15:00
+B100,Dragon's Hoard,Smaug Rich,Fantasy,2016,19.99,true,2016-11-11,2024-01-13T12:50:00
+B101,The Quantum Computer,Dr. Ada Lovelace,Science Fiction,2021,27.50,true,2021-04-04,2024-01-15T13:40:00
+B102,Cold Case Files,Detective Frost,Crime,2019,16.50,true,2019-03-21,2024-01-14T14:55:00
+B103,Spring Awakening,Lily Bloom,Romance,2020,11.25,false,2020-02-14,2024-01-12T13:20:00
+B104,The Lost Civilization,Indiana Explorer,Adventure,2015,18.99,true,2015-07-30,2024-01-16T15:05:00
+B105,The Poisoned Pen,Victoria Writer,Mystery,2018,15.75,true,2018-10-10,2024-01-13T16:30:00
+B106,The Clock Tower,Horace Time,Fiction,2013,13.99,true,2013-01-15,2024-01-15T11:15:00
+B107,Mage's Apprentice,Merlin Wizard,Fantasy,2017,20.50,true,2017-06-06,2024-01-14T10:30:00
+B108,The AI Rebellion,Dr. Isaac Asimov,Science Fiction,2022,28.75,true,2022-12-01,2024-01-16T12:45:00
+B109,Crime Scene,Patricia Detective,Crime,2016,17.25,true,2016-09-09,2024-01-13T09:40:00
+B110,Forever Yours,Emma Heart,Romance,2019,10.99,true,2019-11-11,2024-01-15T14:35:00
+B111,The Mountain Peak,Everest Climber,Adventure,2014,19.50,false,2014-04-18,2024-01-11T16:25:00
+B112,The Stolen Jewel,Arthur Thief,Mystery,2015,16.25,true,2015-12-12,2024-01-14T15:40:00
+B113,The Bookstore,Emily Page,Fiction,2010,12.75,true,2010-08-08,2024-01-16T10:10:00
+B114,Fairy Realms,Titania Queen,Fantasy,2018,21.25,true,2018-05-15,2024-01-13T11:25:00
+B115,The Digital Mind,Dr. Marvin Minsky,Science Fiction,2020,29.99,true,2020-07-23,2024-01-15T17:15:00
+B116,The Murder Weapon,Frank Killer,Crime,2017,18.50,true,2017-02-28,2024-01-14T12:50:00
+B117,Love Letters,Victoria Mail,Romance,2016,11.50,true,2016-06-14,2024-01-16T13:20:00
+B118,The Deep Sea,Diver Blue,Adventure,2013,20.25,true,2013-11-30,2024-01-13T14:10:00
+B119,The Cryptic Message,Code Breaker,Mystery,2019,17.75,false,2019-09-19,2024-01-12T14:15:00
+B120,The Old House,George Manor,Fiction,2011,14.25,true,2011-03-17,2024-01-15T12:30:00
+B121,Wizard's Tower,Gandalf Grey,Fantasy,2015,22.99,true,2015-10-31,2024-01-14T09:20:00
+B122,The Robot Uprising,Dr. Susan Calvin,Science Fiction,2021,30.50,true,2021-12-12,2024-01-16T16:35:00
+B123,The Bank Heist,Robin Robber,Crime,2018,19.75,true,2018-08-08,2024-01-13T15:45:00
+B124,Summer Love,Beach Sandy,Romance,2017,12.25,true,2017-07-04,2024-01-15T15:55:00
+B125,The Volcano,Eruption Danger,Adventure,2014,21.99,true,2014-06-06,2024-01-14T11:05:00
+B126,The Haunted Mansion,Ghost Hunter,Mystery,2016,18.50,true,2016-10-31,2024-01-16T09:50:00
+B127,The Farm Life,Old MacDonald,Fiction,2009,13.50,false,2009-05-25,2024-01-11T17:40:00
+B128,Dragon Slayer,St. George Knight,Fantasy,2019,24.25,true,2019-04-13,2024-01-13T10:20:00
+B129,The Space Station,Dr. Neil Armstrong,Science Fiction,2022,32.00,true,2022-02-14,2024-01-15T14:10:00
+B130,The Drug Lord,Pablo Crime,Crime,2020,20.99,true,2020-01-01,2024-01-14T13:45:00
+B131,Autumn Love,Maple Tree,Romance,2018,13.50,true,2018-11-22,2024-01-16T11:25:00
+B132,The Desert Trek,Camel Rider,Adventure,2015,23.25,true,2015-03-08,2024-01-13T12:35:00
+B133,The Secret Society,Illuminatus Mystery,Mystery,2017,19.25,true,2017-05-05,2024-01-15T16:40:00
+B134,The Coffee Shop,Barista Joe,Fiction,2012,14.75,true,2012-12-12,2024-01-14T10:15:00
+B135,Unicorn Forest,Rainbow Magic,Fantasy,2020,25.50,true,2020-06-15,2024-01-16T14:50:00
+B136,The Time Machine,Dr. H.G. Wells,Science Fiction,2019,33.75,true,2019-10-10,2024-01-13T17:10:00
+B137,The Car Theft,Grand Theft,Crime,2016,22.25,false,2016-04-04,2024-01-12T15:30:00
+B138,Winter Romance,Snowflake White,Romance,2019,14.99,true,2019-12-25,2024-01-15T13:05:00
+B139,The Jungle Trek,Tarzan Adventure,Adventure,2013,24.99,true,2013-09-09,2024-01-14T15:20:00
+B140,The Forged Will,Inheritance Mystery,Mystery,2018,20.50,true,2018-07-07,2024-01-16T12:00:00
+B141,The Lighthouse,Keeper Watch,Fiction,2011,15.25,true,2011-02-28,2024-01-13T11:15:00
+B142,Phoenix Rising,Bird Fire,Fantasy,2017,26.75,true,2017-08-18,2024-01-15T17:30:00
+B143,The Multiverse,Dr. Stephen Hawking,Science Fiction,2021,35.00,true,2021-05-05,2024-01-14T12:40:00
+B144,The Art Forgery,Picasso Fake,Crime,2014,23.50,true,2014-11-11,2024-01-16T15:15:00
+B145,Love at First Sight,Cupid Arrow,Romance,2015,15.75,true,2015-02-14,2024-01-13T14:55:00
+B146,The Arctic Expedition,Polar Bear,Adventure,2012,26.25,true,2012-07-23,2024-01-15T11:40:00
+B147,The Missing Will,Last Testament,Mystery,2016,21.99,false,2016-01-15,2024-01-11T14:50:00
+B148,The Baker's Tale,Bread Maker,Fiction,2010,16.50,true,2010-04-10,2024-01-14T09:10:00
+B149,Centaur Fields,Half Horse,Fantasy,2018,27.99,true,2018-03-21,2024-01-16T13:45:00
+B150,The Black Hole,Dr. Carl Sagan,Science Fiction,2020,36.50,true,2020-08-08,2024-01-13T16:05:00
+B151,The Identity Theft,Stealer ID,Crime,2017,24.75,true,2017-10-10,2024-01-15T14:25:00
+B152,Rose Garden,Thorn Flower,Romance,2016,16.99,true,2016-05-20,2024-01-14T11:30:00
+B153,The Safari,Lion King,Adventure,2014,27.50,true,2014-12-25,2024-01-16T10:55:00
+B154,The Fake Death,Insurance Scam,Mystery,2019,23.25,true,2019-06-06,2024-01-13T12:10:00
+B155,The Watchmaker,Time Keeper,Fiction,2008,17.25,true,2008-09-17,2024-01-15T15:05:00
+B156,Griffin's Nest,Mythical Beast,Fantasy,2016,29.25,true,2016-02-29,2024-01-14T13:10:00
+B157,The Alien Contact,Dr. SETI,Science Fiction,2022,38.00,true,2022-11-11,2024-01-16T17:05:00
+B158,The Casino Heist,Vegas Crime,Crime,2015,26.50,true,2015-08-15,2024-01-13T15:30:00
+B159,Moonlit Walk,Night Romance,Romance,2017,18.25,false,2017-04-01,2024-01-12T16:45:00
+B160,The Mountain Climb,Summit Seeker,Adventure,2011,28.99,true,2011-10-20,2024-01-15T12:20:00
+B161,The Kidnapping,Ransom Note,Mystery,2018,24.75,true,2018-09-15,2024-01-14T14:35:00
+B162,The Tailor's Shop,Thread Needle,Fiction,2007,18.50,true,2007-06-30,2024-01-16T11:05:00
+B163,Hydra Lake,Multi Head,Fantasy,2019,30.99,true,2019-12-31,2024-01-13T10:45:00
+B164,The Virtual World,Dr. Matrix,Science Fiction,2021,39.50,true,2021-03-15,2024-01-15T16:20:00
+B165,The Smuggler's Ring,Border Crime,Crime,2016,28.25,true,2016-07-19,2024-01-14T12:15:00
+B166,Love in Venice,Gondola Ride,Romance,2015,19.75,true,2015-01-14,2024-01-16T14:30:00
+B167,The Deep Dive,Scuba Adventure,Adventure,2013,30.50,true,2013-04-04,2024-01-13T11:50:00
+B168,The Cold Case,Frozen Mystery,Mystery,2017,26.99,true,2017-11-30,2024-01-15T13:50:00
+B169,The Blacksmith's Forge,Hot Iron,Fiction,2006,19.25,true,2006-08-22,2024-01-14T09:55:00
+B170,Minotaur's Maze,Labyrinth Monster,Fantasy,2014,32.50,true,2014-05-05,2024-01-16T15:40:00
+B171,The Cyborg Revolution,Dr. Cybernetics,Science Fiction,2020,41.00,true,2020-10-05,2024-01-13T17:20:00
+B172,The Jewel Thief,Diamond Crime,Crime,2018,30.75,true,2018-02-14,2024-01-15T14:55:00
+B173,Starry Night,Van Gogh Romance,Romance,2019,21.25,false,2019-08-29,2024-01-12T14:05:00
+B174,The Cave Exploration,Spelunker,Adventure,2012,32.99,true,2012-12-21,2024-01-14T15:50:00
+B175,The Secret Passage,Hidden Door,Mystery,2016,28.50,true,2016-06-06,2024-01-16T12:25:00
+B176,The Fisherman's Tale,Big Fish,Fiction,2005,20.00,true,2005-03-14,2024-01-13T13:25:00
+B177,Goblin Market,Trickster Creature,Fantasy,2015,34.25,true,2015-09-11,2024-01-15T17:40:00
+B178,The Genetic Code,Dr. DNA,Science Fiction,2022,42.50,true,2022-06-30,2024-01-14T10:40:00
+B179,The Bank Robbery,Heist Master,Crime,2017,33.25,true,2017-12-12,2024-01-16T13:10:00
+B180,Parisian Nights,City Lights,Romance,2014,22.99,true,2014-07-07,2024-01-13T14:40:00
+B181,The Hot Air Balloon,Sky High,Adventure,2010,35.50,true,2010-11-11,2024-01-15T11:30:00
+B182,The Coded Diary,Secret Message,Mystery,2019,30.25,true,2019-03-03,2024-01-14T11:55:00
+B183,The Potter's Wheel,Clay Art,Fiction,2004,21.50,true,2004-10-31,2024-01-16T09:35:00
+B184,Sphinx's Riddle,Desert Guardian,Fantasy,2018,36.99,true,2018-04-22,2024-01-13T12:00:00
+B185,The Parallel Universe,Dr. Multiverse,Science Fiction,2021,44.00,true,2021-09-09,2024-01-15T15:15:00
+B186,The Art Theft,Museum Crime,Crime,2015,35.75,true,2015-05-25,2024-01-14T13:25:00
+B187,Italian Romance,Pasta Love,Romance,2016,24.50,true,2016-08-08,2024-01-16T14:15:00
+B188,The Ski Slope,Snow Adventure,Adventure,2011,37.25,true,2011-02-28,2024-01-13T15:55:00
+B189,The Locked Diary,Private Journal,Mystery,2017,32.99,false,2017-01-01,2024-01-11T15:10:00
+B190,The Carpenter's Bench,Wood Work,Fiction,2003,22.75,true,2003-07-04,2024-01-15T12:45:00
+B191,Yeti Mountain,Snow Monster,Fantasy,2019,38.50,true,2019-11-15,2024-01-14T09:30:00
+B192,The Nanobot Invasion,Dr. Microtech,Science Fiction,2022,45.50,true,2022-04-18,2024-01-16T16:10:00
+B193,The Money Laundering,Finance Crime,Crime,2018,38.25,true,2018-06-20,2024-01-13T16:40:00
+B194,Love in London,Big Ben Romance,Romance,2017,26.25,true,2017-03-14,2024-01-15T13:35:00
+B195,The White Water Rafting,River Rapid,Adventure,2009,39.99,true,2009-08-09,2024-01-14T14:45:00
+B196,The Disappearing Act,Magic Trick,Mystery,2020,35.50,true,2020-05-05,2024-01-16T10:20:00
+B197,The Glassblower,Hot Glass,Fiction,2002,23.99,true,2002-12-25,2024-01-13T11:05:00
+B198,Kraken Deep,Sea Monster,Fantasy,2016,40.25,true,2016-10-10,2024-01-15T16:45:00
+B199,The Teleportation Device,Dr. Quantum,Science Fiction,2020,47.00,true,2020-02-29,2024-01-14T12:05:00
+B200,The Corporate Fraud,Business Crime,Crime,2019,41.75,true,2019-07-17,2024-01-16T13:50:00
+B201,Scottish Highlands,Kilt Romance,Romance,2015,28.50,true,2015-04-01,2024-01-13T14:15:00
+B202,The Skydiving,Free Fall,Adventure,2008,42.50,true,2008-09-23,2024-01-15T11:10:00
+B203,The Invisible Man,No Body Mystery,Mystery,2018,38.25,true,2018-12-06,2024-01-14T10:50:00
+B204,The Painter's Canvas,Art Life,Fiction,2001,25.25,false,2001-05-15,2024-01-12T17:30:00
+B205,Banshee's Wail,Irish Spirit,Fantasy,2017,42.99,true,2017-06-25,2024-01-16T15:00:00
+B206,The Dyson Sphere,Dr. Megastructure,Science Fiction,2021,48.50,true,2021-11-11,2024-01-13T17:30:00
+B207,The Insider Trading,Stock Crime,Crime,2016,44.25,true,2016-03-08,2024-01-15T14:05:00
+B208,Love Under the Stars,Constellation,Romance,2014,30.75,true,2014-10-10,2024-01-14T13:40:00
+B209,The Bungee Jumping,Elastic Adventure,Adventure,2007,45.00,true,2007-04-14,2024-01-16T11:40:00
+B210,The Perfect Murder,Unsolved Case,Mystery,2019,41.50,true,2019-09-09,2024-01-13T12:30:00
+B211,The Musician's Note,Music Maker,Fiction,2000,26.50,true,2000-08-08,2024-01-15T17:20:00
+B212,Pegasus Flight,Winged Horse,Fantasy,2018,45.75,true,2018-01-26,2024-01-14T09:45:00
+B213,The Wormhole Theory,Dr. Einstein,Science Fiction,2022,50.00,true,2022-08-08,2024-01-16T16:25:00
+B214,The Counterfeit Money,Fake Currency,Crime,2017,47.25,true,2017-05-05,2024-01-13T15:20:00
+B215,Tropical Paradise,Island Love,Romance,2016,33.25,true,2016-12-12,2024-01-15T12:55:00
+B216,The Rock Climbing,Cliff Hanger,Adventure,2006,48.50,true,2006-11-30,2024-01-14T15:05:00
+B217,The Ghost Writer,Spirit Author,Mystery,2020,44.75,true,2020-04-04,2024-01-16T10:05:00
+B218,The Architect's Design,Building Plan,Fiction,1999,27.75,true,1999-03-17,2024-01-13T10:10:00
+B219,Chimera Myths,Mixed Beast,Fantasy,2019,48.99,false,2019-10-31,2024-01-12T16:15:00
+B220,The Artificial Sun,Dr. Fusion,Science Fiction,2021,51.50,true,2021-07-07,2024-01-15T15:25:00
+B221,The Identity Fraud,Fake ID Crime,Crime,2018,50.25,true,2018-08-18,2024-01-14T11:20:00
+B222,Midnight in Tokyo,Japanese Romance,Romance,2017,35.99,true,2017-02-14,2024-01-16T14:05:00
+B223,The Paragliding,Wing Flight,Adventure,2005,51.00,true,2005-06-06,2024-01-13T13:45:00
+B224,The Poison Mystery,Deadly Drink,Mystery,2021,48.25,true,2021-01-15,2024-01-15T13:10:00
+B225,The Gardener's Plot,Plant Life,Fiction,1998,29.00,true,1998-09-22,2024-01-14T10:00:00
+B226,Leviathan Ocean,Sea Serpent,Fantasy,2020,52.50,true,2020-03-21,2024-01-16T15:30:00
+B227,The Martian Colony,Dr. Red Planet,Science Fiction,2022,53.00,true,2022-12-25,2024-01-13T16:50:00
+B228,The Pyramid Scheme,Investment Crime,Crime,2019,53.25,true,2019-11-11,2024-01-15T14:40:00
+B229,Love in New York,City Romance,Romance,2018,38.50,true,2018-05-20,2024-01-14T12:30:00
+B230,The Ice Climbing,Frozen Falls,Adventure,2004,54.50,true,2004-02-29,2024-01-16T11:15:00
+B231,The Vanished Plane,Air Mystery,Mystery,2022,52.75,true,2022-06-15,2024-01-13T11:35:00
+B232,The Chef's Recipe,Cooking Book,Fiction,1997,30.25,true,1997-04-10,2024-01-15T16:10:00
+B233,Cerberus Guard,Three Head Dog,Fantasy,2021,56.99,true,2021-08-08,2024-01-14T13:55:00
+B234,The Space Elevator,Dr. Orbit,Science Fiction,2023,54.50,true,2023-01-01,2024-01-16T17:15:00
+B235,The Cyber Attack,Internet Crime,Crime,2020,56.75,true,2020-09-23,2024-01-13T14:50:00
+B236,Love in Rome,Ancient Romance,Romance,2019,41.25,true,2019-06-14,2024-01-15T12:05:00
+B237,The Cave Diving,Underwater Cave,Adventure,2003,57.99,true,2003-07-19,2024-01-14T14:10:00
+B238,The Stolen Artifact,Museum Theft,Mystery,2023,57.25,true,2023-03-03,2024-01-16T09:25:00
+B239,The Poet's Verse,Rhyme Time,Fiction,1996,31.50,true,1996-11-11,2024-01-13T10:55:00
+B240,Gorgon's Gaze,Stone Eyes,Fantasy,2022,60.00,true,2022-05-05,2024-01-15T15:35:00
+B241,The Terraforming,Dr. Planet Maker,Science Fiction,2024,56.00,true,2024-02-14,2024-01-16T16:40:00
+B242,The Human Trafficking,Modern Crime,Crime,2021,60.25,true,2021-12-31,2024-01-14T11:05:00
+B243,Love in Barcelona,Spanish Romance,Romance,2020,44.99,false,2020-10-10,2024-01-12T15:20:00
+B244,The Extreme Skiing,Danger Slope,Adventure,2002,61.50,true,2002-01-15,2024-01-15T11:50:00
+B245,The Burning Letter,Fire Mystery,Mystery,2024,62.75,true,2024-04-04,2024-01-16T14:20:00
+B246,The Journalist's Story,News Report,Fiction,1995,32.75,true,1995-06-30,2024-01-13T12:20:00
+B247,Basilisk King,Snake Monster,Fantasy,2023,64.50,true,2023-07-07,2024-01-14T09:20:00
+B248,The Galactic Empire,Dr. Space King,Science Fiction,2025,57.50,true,2025-01-01,2024-01-16T17:30:00
+B249,The Drug Cartel,Narco Crime,Crime,2022,64.75,true,2022-02-22,2024-01-13T15:10:00
+B250,Love in Vienna,Waltz Romance,Romance,2021,48.50,true,2021-03-03,2024-01-15T13:20:00
+B251,The Wingsuit Flying,Bird Man,Adventure,2001,65.99,true,2001-08-08,2024-01-14T15:15:00
+B252,The Cursed Object,Magic Mystery,Mystery,2025,68.25,true,2025-05-05,2024-01-16T10:30:00
+B253,The Historian's Record,Past Events,Fiction,1994,34.00,true,1994-05-17,2024-01-13T11:00:00
+B254,Djinn Wish,Desert Spirit,Fantasy,2024,69.99,true,2024-08-08,2024-01-15T16:50:00
+B255,The Space War,Dr. Conflict,Science Fiction,2026,59.00,true,2026-03-15,2024-01-16T17:45:00
+B256,The Political Scandal,Government Crime,Crime,2023,69.25,true,2023-06-06,2024-01-14T12:40:00
+B257,Love in Prague,Czech Romance,Romance,2022,52.25,true,2022-09-21,2024-01-13T14:05:00
+B258,The Free Solo,No Rope Climb,Adventure,2000,70.50,true,2000-12-25,2024-01-15T12:15:00
+B259,The Frozen Corpse,Ice Mystery,Mystery,2026,74.75,true,2026-10-31,2024-01-16T11:50:00
+B260,The Philosopher's Thought,Deep Ideas,Fiction,1993,35.25,true,1993-02-28,2024-01-14T10:25:00
+B261,Fenrir Wolf,Moon Beast,Fantasy,2025,75.50,true,2025-11-11,2024-01-13T16:15:00
+B262,The Dimensional Portal,Dr. Gateway,Science Fiction,2027,60.50,true,2027-07-04,2024-01-16T17:55:00
+B263,The Arms Deal,Weapon Crime,Crime,2024,74.99,true,2024-04-18,2024-01-15T14:15:00
+B264,Love in Dublin,Irish Romance,Romance,2023,56.75,true,2023-01-14,2024-01-14T13:20:00
+B265,The Volcano Boarding,Lava Surf,Adventure,1999,76.25,true,1999-03-08,2024-01-13T10:40:00
+B266,The Deadly Virus,Bio Mystery,Mystery,2027,80.50,true,2027-12-12,2024-01-16T15:10:00
+B267,The Scientist's Lab,Experiment Log,Fiction,1992,36.50,true,1992-09-09,2024-01-15T17:05:00
+B268,Troll Bridge,River Monster,Fantasy,2026,82.25,true,2026-06-15,2024-01-14T09:35:00
+B269,The Star Drive,Dr. Light Speed,Science Fiction,2028,62.00,true,2028-02-14,2024-01-16T18:05:00
+B270,The Organ Trade,Medical Crime,Crime,2025,80.75,true,2025-08-08,2024-01-13T15:35:00
+B271,Love in Edinburgh,Scottish Romance,Romance,2024,61.25,true,2024-05-20,2024-01-15T13:30:00
+B272,The Sandboarding,Dune Ride,Adventure,1998,82.99,true,1998-10-10,2024-01-14T14:20:00
+B273,The Haunted Ship,Ghost Boat,Mystery,2028,86.75,true,2028-09-09,2024-01-16T12:10:00
+B274,The Doctor's Diary,Medical Record,Fiction,1991,37.75,true,1991-04-12,2024-01-13T11:25:00
+B275,Wendigo Woods,Cannibal Spirit,Fantasy,2027,89.50,true,2027-03-17,2024-01-15T15:45:00
+B276,The Planet Killer,Dr. Doomsday,Science Fiction,2029,64.50,true,2029-11-11,2024-01-16T18:15:00
+B277,The Election Fraud,Voting Crime,Crime,2026,87.25,true,2026-01-15,2024-01-14T11:10:00
+B278,Love in Amsterdam,Dutch Romance,Romance,2025,66.50,true,2025-07-07,2024-01-13T14:25:00
+B279,The Cliff Camping,Edge Sleep,Adventure,1997,90.00,true,1997-06-06,2024-01-15T11:20:00
+B280,The Stolen Crown,Royal Mystery,Mystery,2029,93.25,true,2029-04-04,2024-01-16T13:40:00
+B281,The Teacher's Lesson,Education Book,Fiction,1990,39.00,true,1990-08-08,2024-01-14T10:45:00
+B282,Harpy Sky,Bird Woman,Fantasy,2028,96.99,true,2028-12-25,2024-01-13T16:25:00
+B283,The Reality Warp,Dr. Illusion,Science Fiction,2030,67.00,true,2030-06-30,2024-01-16T18:25:00
+B284,The Corporate Espionage,Spy Crime,Crime,2027,94.75,true,2027-05-05,2024-01-15T14:30:00
+B285,Love in Brussels,Belgian Romance,Romance,2026,72.25,true,2026-02-14,2024-01-14T13:05:00
+B286,The Glacier Trek,Ice Walk,Adventure,1996,95.50,true,1996-01-01,2024-01-13T10:15:00
+B287,The Missing Scientist,Lab Mystery,Mystery,2030,99.99,true,2030-08-08,2024-01-16T14:45:00
+B288,The Engineer's Blueprint,Building Design,Fiction,1989,40.25,false,1989-03-15,2024-01-12T16:50:00
+B289,Imp Mischief,Little Demon,Fantasy,2029,105.50,true,2029-10-31,2024-01-15T16:00:00
+B290,The Time Paradox,Dr. Chronology,Science Fiction,2031,69.50,true,2031-01-01,2024-01-16T18:35:00
+B291,The Food Adulteration,Consumable Crime,Crime,2028,102.25,true,2028-07-19,2024-01-14T11:35:00
+B292,Love in Warsaw,Polish Romance,Romance,2027,78.99,true,2027-11-11,2024-01-13T14:45:00
+B293,The Desert Marathon,Sand Run,Adventure,1995,101.00,true,1995-04-22,2024-01-15T11:05:00
+B294,The Coded Transmission,Radio Mystery,Mystery,2031,107.50,true,2031-03-14,2024-01-16T12:35:00
+B295,The Lawyer's Case,Legal Brief,Fiction,1988,41.50,true,1988-12-12,2024-01-14T09:50:00
+B296,Nymph Pond,Water Spirit,Fantasy,2030,115.75,true,2030-05-05,2024-01-13T16:35:00
+B297,The Cosmic String,Dr. Universe,Science Fiction,2032,72.00,true,2032-09-09,2024-01-16T18:45:00
+B298,The Animal Trafficking,Wildlife Crime,Crime,2029,111.25,true,2029-02-28,2024-01-15T14:20:00
+B299,Love in Athens,Greek Romance,Romance,2028,86.50,true,2028-06-06,2024-01-14T12:50:00
+B300,The Iceberg Sailing,Cold Sea,Adventure,1994,108.99,true,1994-07-17,2024-01-13T10:50:00
+B301,The Stolen Formula,Science Mystery,Mystery,2032,116.75,true,2032-12-25,2024-01-16T15:20:00
+B302,The Astronaut's Log,Space Diary,Fiction,1987,42.75,true,1987-10-10,2024-01-15T17:25:00
+B303,Satyr Forest,Party Creature,Fantasy,2031,127.00,true,2031-08-08,2024-01-14T10:10:00
+B304,The Dark Matter,Dr. Invisible,Science Fiction,2033,75.50,true,2033-04-04,2024-01-16T18:55:00
+B305,The Land Fraud,Property Crime,Crime,2030,121.25,true,2030-11-11,2024-01-13T15:45:00
+B306,Love in Lisbon,Portuguese Romance,Romance,2029,94.99,true,2029-01-14,2024-01-15T12:40:00
+B307,The Jungle Marathon,Forest Run,Adventure,1993,117.50,true,1993-05-25,2024-01-14T14:00:00
+B308,The Secret Experiment,Lab Secret,Mystery,2033,126.50,true,2033-07-07,2024-01-16T13:15:00
+B309,The Pilot's Journal,Flight Record,Fiction,1986,44.00,true,1986-02-14,2024-01-13T11:10:00
+B310,Vampire Night,Blood Drinker,Fantasy,2032,139.99,true,2032-10-31,2024-01-15T15:55:00
+B311,The Quantum Entanglement,Dr. Connection,Science Fiction,2034,79.00,true,2034-06-15,2024-01-16T19:05:00
+B312,The Copyright Infringement,Intellectual Crime,Crime,2031,132.75,true,2031-03-03,2024-01-14T11:00:00
+B313,Love in Budapest,Hungarian Romance,Romance,2030,104.50,true,2030-08-20,2024-01-13T14:10:00
+B314,The Mountain Marathon,High Run,Adventure,1992,127.99,true,1992-09-09,2024-01-15T10:35:00
+B315,The Lost Colony,History Mystery,Mystery,2034,137.25,true,2034-01-01,2024-01-16T14:05:00
+B316,The Detective's Notebook,Case File,Fiction,1985,45.25,true,1985-07-04,2024-01-14T09:30:00
+B317,Werewolf Moon,Shape Shifter,Fantasy,2033,154.50,true,2033-12-12,2024-01-13T16:45:00
+B318,The Artificial Intelligence,Dr. AI Master,Science Fiction,2035,82.50,true,2035-02-14,2024-01-16T19:15:00
+B319,The Tax Evasion,Financial Crime,Crime,2032,145.25,true,2032-05-05,2024-01-15T13:45:00
+B320,Love in Copenhagen,Danish Romance,Romance,2031,115.75,true,2031-10-10,2024-01-14T12:25:00
+B321,The Ocean Marathon,Sea Run,Adventure,1991,139.50,true,1991-03-17,2024-01-13T10:25:00
+B322,The Ancient Manuscript,Historical Mystery,Mystery,2035,149.99,true,2035-08-08,2024-01-16T12:50:00
+B323,The Firefighter's Memoir,Rescue Stories,Fiction,1984,46.50,true,1984-11-11,2024-01-15T16:30:00
+B324,Zombie Apocalypse,Undead Horde,Fantasy,2034,170.00,true,2034-06-06,2024-01-14T10:55:00
+B325,The Climate Control,Dr. Weather,Science Fiction,2036,86.00,true,2036-12-25,2024-01-16T19:25:00
+B326,The Bribery Case,Corruption Crime,Crime,2033,158.75,true,2033-09-09,2024-01-13T15:15:00
+B327,Love in Helsinki,Finnish Romance,Romance,2032,128.50,true,2032-04-04,2024-01-15T11:55:00
+B328,The Arctic Marathon,Cold Run,Adventure,1990,152.25,true,1990-12-31,2024-01-14T13:35:00
+B329,The Pharaoh's Curse,Egyptian Mystery,Mystery,2036,163.50,true,2036-03-14,2024-01-16T15:30:00
+B330,The Nurse's Journal,Medical Care,Fiction,1983,47.75,true,1983-05-20,2024-01-13T11:30:00
+B331,Ghost Haunting,Spirit World,Fantasy,2035,187.25,true,2035-11-11,2024-01-15T16:10:00
+B332,The Universal Translator,Dr. Language,Science Fiction,2037,90.50,true,2037-07-07,2024-01-16T19:35:00
+B333,The Extortion Racket,Threat Crime,Crime,2034,173.25,true,2034-01-15,2024-01-14T11:15:00
+B334,Love in Reykjavik,Icelandic Romance,Romance,2033,142.99,true,2033-06-22,2024-01-13T14:30:00
+B335,The Desert Ultra,Extreme Run,Adventure,1989,166.99,true,1989-08-08,2024-01-15T10:20:00
+B336,The Mona Lisa Mystery,Art Theft Mystery,Mystery,2037,178.75,true,2037-05-05,2024-01-16T13:25:00
+B337,The Farmer's Almanac,Agricultural Guide,Fiction,1982,49.00,false,1982-01-01,2024-01-12T17:15:00
+B338,Angel Divine,Heavenly Being,Fantasy,2036,206.50,true,2036-04-18,2024-01-14T09:40:00
+B339,The Force Field,Dr. Barrier,Science Fiction,2038,95.00,true,2038-10-10,2024-01-16T19:45:00
+B340,The Ponzi Scheme,Investment Fraud Crime,Crime,2035,189.75,true,2035-02-28,2024-01-13T15:55:00
+B341,Love in Oslo,Norwegian Romance,Romance,2034,158.25,true,2034-12-12,2024-01-15T12:25:00
+B342,The Jungle Ultra,Forest Extreme,Adventure,1988,182.50,true,1988-04-14,2024-01-14T13:10:00
+B343,The Titanic Mystery,Ship Secret,Mystery,2038,195.99,true,2038-09-09,2024-01-16T14:15:00
+B344,The Carpenter's Manual,Woodworking Guide,Fiction,1981,50.25,true,1981-09-23,2024-01-13T10:05:00
+B345,Demon Lord,Evil Ruler,Fantasy,2037,227.75,true,2037-08-08,2024-01-15T16:40:00
+B346,The Invisibility Cloak,Dr. Hidden,Science Fiction,2039,99.50,true,2039-03-03,2024-01-16T19:55:00
+B347,The Money Counterfeiting,Fake Money Crime,Crime,2036,207.25,true,2036-06-06,2024-01-14T10:40:00
+B348,Love in Stockholm,Swedish Romance,Romance,2035,175.50,true,2035-10-31,2024-01-13T14:50:00
+B349,The Mountain Ultra,High Altitude Run,Adventure,1987,199.99,true,1987-11-11,2024-01-15T10:50:00
+B350,The Bermuda Triangle,Mysterious Area,Mystery,2039,214.50,true,2039-01-15,2024-01-16T12:00:00
+B351,The Electrician's Guide,Wiring Manual,Fiction,1980,51.50,true,1980-06-30,2024-01-14T09:25:00
+B352,Fairy Queen,Magical Ruler,Fantasy,2038,251.00,true,2038-12-25,2024-01-13T17:00:00
+B353,The Anti-Gravity,Dr. Float,Science Fiction,2040,104.00,true,2040-06-15,2024-01-16T20:05:00
+B354,The Identity Theft,Personal Crime,Crime,2037,226.75,true,2037-04-04,2024-01-15T13:10:00
+B355,Love in Bern,Swiss Romance,Romance,2036,194.25,true,2036-07-07,2024-01-14T11:50:00
+B356,The Coastal Ultra,Beach Run,Adventure,1986,218.50,true,1986-02-14,2024-01-13T10:45:00
+B357,The Stonehenge Mystery,Ancient Circle,Mystery,2040,235.25,true,2040-05-05,2024-01-16T15:40:00
+B358,The Plumber's Handbook,Pipe Guide,Fiction,1979,52.75,true,1979-03-08,2024-01-15T17:15:00
+B359,Dragon King,Fire Ruler,Fantasy,2039,276.50,true,2039-10-10,2024-01-14T09:15:00
+B360,The Telepathy Device,Dr. Mind Reader,Science Fiction,2041,109.50,true,2041-01-01,2024-01-16T20:15:00
+B361,The Credit Card Fraud,Financial Crime,Crime,2038,248.25,true,2038-08-08,2024-01-13T15:25:00
+B362,Love in Zagreb,Croatian Romance,Romance,2037,215.99,true,2037-11-11,2024-01-15T11:30:00
+B363,The City Ultra,Urban Run,Adventure,1985,239.00,true,1985-07-04,2024-01-14T12:45:00
+B364,The Easter Island Mystery,Moai Statues,Mystery,2041,258.75,true,2041-07-07,2024-01-16T13:35:00
+B365,The Mechanic's Guide,Auto Repair,Fiction,1978,54.00,true,1978-12-12,2024-01-13T11:20:00
+B366,Unicorn Queen,Magical Creature,Fantasy,2040,304.99,true,2040-02-14,2024-01-15T16:20:00
+B367,The Holographic World,Dr. Projection,Science Fiction,2042,115.00,true,2042-04-18,2024-01-16T20:25:00
+B368,The Insurance Fraud,False Claim Crime,Crime,2039,271.75,true,2039-05-05,2024-01-14T10:20:00
+B369,Love in Belgrade,Serbian Romance,Romance,2038,239.50,true,2038-09-23,2024-01-13T14:15:00
+B370,The Trail Ultra,Path Run,Adventure,1984,261.50,true,1984-10-10,2024-01-15T10:05:00
+B371,The Nazca Lines Mystery,Desert Drawings,Mystery,2042,284.25,true,2042-03-14,2024-01-16T14:50:00
+B372,The Programmer's Code,Software Guide,Fiction,1977,55.25,true,1977-05-25,2024-01-14T09:05:00
+B373,Phoenix Monarch,Rebirth Ruler,Fantasy,2041,336.50,true,2041-12-12,2024-01-13T16:55:00
+B374,The Memory Eraser,Dr. Forget,Science Fiction,2043,121.50,true,2043-08-08,2024-01-16T20:35:00
+B375,The Bankruptcy Fraud,Financial Crime,Crime,2040,297.25,true,2040-11-11,2024-01-15T12:50:00
+B376,Love in Sofia,Bulgarian Romance,Romance,2039,265.25,true,2039-06-06,2024-01-14T11:30:00
+B377,The Snow Ultra,Winter Run,Adventure,1983,285.99,true,1983-01-15,2024-01-13T10:35:00
+B378,The Loch Ness Mystery,Lake Monster,Mystery,2043,312.50,true,2043-10-31,2024-01-16T12:20:00
+B379,The Architect's Plan,Building Design,Fiction,1976,56.50,true,1976-08-18,2024-01-15T17:05:00
+B380,Griffin Monarch,Mythical Ruler,Fantasy,2042,371.00,true,2042-04-04,2024-01-14T09:50:00
+B381,The Dream Catcher,Dr. Sleep,Science Fiction,2044,128.00,true,2044-02-29,2024-01-16T20:45:00
+B382,The Welfare Fraud,Government Crime,Crime,2041,325.75,true,2041-07-07,2024-01-13T15:35:00
+B383,Love in Bucharest,Romanian Romance,Romance,2040,293.99,true,2040-12-25,2024-01-15T11:10:00
+B384,The Hill Ultra,Elevation Run,Adventure,1982,312.25,true,1982-04-22,2024-01-14T12:20:00
+B385,The Area 51 Mystery,Alien Base,Mystery,2044,342.75,true,2044-06-15,2024-01-16T15:10:00
+B386,The Biologist's Journal,Life Study,Fiction,1975,57.75,true,1975-11-11,2024-01-13T11:00:00
+B387,Centaur King,Half-Horse Ruler,Fantasy,2043,408.50,true,2043-09-09,2024-01-15T16:00:00
+B388,The Emotion Controller,Dr. Feelings,Science Fiction,2045,135.50,true,2045-05-05,2024-01-16T20:55:00
+B389,The Tax Fraud,Financial Crime,Crime,2042,356.25,true,2042-03-03,2024-01-14T10:05:00
+B390,Love in Kiev,Ukrainian Romance,Romance,2041,325.50,true,2041-08-08,2024-01-13T14:35:00
+B391,The Forest Ultra,Woodland Run,Adventure,1981,340.50,true,1981-09-09,2024-01-15T10:40:00
+B392,The Voynich Manuscript,Unreadable Book Mystery,Mystery,2045,375.99,true,2045-01-14,2024-01-16T13:10:00
+B393,The Chemist's Formula,Chemical Guide,Fiction,1974,59.00,true,1974-02-14,2024-01-14T09:20:00
+B394,Minotaur King,Labyrinth Ruler,Fantasy,2044,449.00,true,2044-10-10,2024-01-13T17:10:00
+B395,The Time Stopper,Dr. Freeze,Science Fiction,2046,143.00,true,2046-11-11,2024-01-16T21:05:00
+B396,The Medicare Fraud,Medical Crime,Crime,2043,389.75,true,2043-12-12,2024-01-15T12:35:00
+B397,Love in Vilnius,Lithuanian Romance,Romance,2042,359.25,true,2042-05-05,2024-01-14T11:10:00
+B398,The River Ultra,Water Run,Adventure,1980,371.25,true,1980-06-06,2024-01-13T10:15:00
+B399,The Oak Island Mystery,Treasure Pit,Mystery,2046,412.50,true,2046-04-04,2024-01-16T14:30:00
+B400,The Physicist's Theory,Science Guide,Fiction,1973,60.25,true,1973-07-07,2024-01-15T16:45:00
+B401,Hydra Queen,Multi-Head Ruler,Fantasy,2045,492.50,true,2045-03-17,2024-01-14T09:35:00
+B402,The Matter Replicator,Dr. Copy,Science Fiction,2047,151.50,true,2047-08-08,2024-01-16T21:15:00
+B403,The Visa Fraud,Immigration Crime,Crime,2044,425.25,true,2044-06-15,2024-01-13T15:45:00
+B404,Love in Tallinn,Estonian Romance,Romance,2043,395.99,true,2043-10-10,2024-01-15T10:55:00
+B405,The Desert Ultra Marathon,Extreme Desert Run,Adventure,1979,404.99,true,1979-01-01,2024-01-14T12:05:00
+B406,The Mary Celeste Mystery,Ghost Ship,Mystery,2047,452.25,true,2047-12-25,2024-01-16T12:45:00
+B407,The Mathematician's Proof,Math Guide,Fiction,1972,61.50,true,1972-12-12,2024-01-13T11:40:00
+B408,Chimera King,Mixed-Beast Ruler,Fantasy,2046,539.00,true,2046-11-11,2024-01-15T15:50:00
+B409,The Space Folding,Dr. Distance,Science Fiction,2048,160.00,true,2048-03-03,2024-01-16T21:25:00
+B410,The Bankruptcy Fraud,Business Crime,Crime,2045,463.75,true,2045-04-18,2024-01-14T09:45:00
+B411,Love in Riga,Latvian Romance,Romance,2044,435.50,true,2044-02-14,2024-01-13T14:55:00
+B412,The Arctic Ultra,Extreme Cold Run,Adventure,1978,441.25,true,1978-08-08,2024-01-15T10:30:00
+B413,The Roanoke Colony Mystery,Lost Settlement,Mystery,2048,495.99,true,2048-07-07,2024-01-16T15:20:00
+B414,The Astronomer's Star,Celestial Guide,Fiction,1971,62.75,true,1971-05-20,2024-01-14T09:10:00
+B415,Leviathan King,Sea Serpent Ruler,Fantasy,2047,588.50,true,2047-06-06,2024-01-13T17:20:00
+B416,The Mind Upload,Dr. Consciousness,Science Fiction,2049,169.50,true,2049-09-09,2024-01-16T21:35:00
+B417,The Charity Fraud,Non-Profit Crime,Crime,2046,505.25,true,2046-10-10,2024-01-15T12:20:00
+B418,Love in Ljubljana,Slovenian Romance,Romance,2045,478.25,true,2045-07-04,2024-01-14T10:55:00
+B419,The Mountain Ultra Marathon,Extreme Mountain Run,Adventure,1977,480.50,true,1977-03-14,2024-01-13T10:05:00
+B420,The Tunguska Event Mystery,Explosion Mystery,Mystery,2049,542.75,true,2049-02-28,2024-01-16T13:00:00
+B421,The Geologist's Rock,Earth Guide,Fiction,1970,64.00,true,1970-10-10,2024-01-15T17:25:00
+B422,Cerberus King,Three-Headed Ruler,Fantasy,2048,641.00,true,2048-12-12,2024-01-14T09:00:00
+B423,The Parallel Reality,Dr. Alternate,Science Fiction,2050,179.00,true,2050-01-15,2024-01-16T21:45:00
+B424,The Securities Fraud,Stock Market Crime,Crime,2047,549.75,true,2047-05-05,2024-01-13T15:55:00
+B425,Love in Bratislava,Slovak Romance,Romance,2046,524.99,true,2046-11-30,2024-01-15T11:00:00
+B426,The Jungle Ultra Marathon,Extreme Jungle Run,Adventure,1976,522.99,true,1976-06-15,2024-01-14T11:40:00
+B427,The Zodiac Killer Mystery,Unsolved Murders,Mystery,2050,593.25,true,2050-08-08,2024-01-16T14:10:00
+B428,The Psychologist's Mind,Mental Health Guide,Fiction,1969,65.25,false,1969-04-04,2024-01-12T17:50:00
+B429,Basilisk King,Snake-Eyed Ruler,Fantasy,2049,696.50,true,2049-04-22,2024-01-13T16:30:00
+B430,The Universe Simulation,Dr. Reality,Science Fiction,2051,189.50,true,2051-06-06,2024-01-16T21:55:00
+B431,The Credit Fraud,Financial Crime,Crime,2048,597.25,true,2048-09-09,2024-01-14T09:55:00
+B432,Love in Sarajevo,Bosnian Romance,Romance,2047,575.50,true,2047-03-17,2024-01-15T10:10:00
+B433,The Coastal Ultra Marathon,Extreme Coastal Run,Adventure,1975,568.50,true,1975-12-25,2024-01-13T10:55:00
+B434,The Black Dahlia Mystery,Hollywood Murder,Mystery,2051,647.99,true,2051-10-31,2024-01-16T12:30:00
+B435,The Sociologist's Society,Social Guide,Fiction,1968,66.50,true,1968-08-08,2024-01-14T09:30:00
+B436,Djinn King,Wish-Granting Ruler,Fantasy,2050,755.00,true,2050-07-07,2024-01-15T16:10:00
+B437,The Cosmic Consciousness,Dr. Universe Mind,Science Fiction,2052,200.00,true,2052-02-14,2024-01-16T22:05:00
+B438,The Insurance Fraud,False Claim Crime,Crime,2049,647.75,true,2049-01-01,2024-01-13T16:05:00
+B439,Love in Podgorica,Montenegrin Romance,Romance,2048,629.25,true,2048-05-05,2024-01-14T10:15:00
+B440,The City Ultra Marathon,Extreme Urban Run,Adventure,1974,617.25,true,1974-09-09,2024-01-15T10:45:00
+B441,The Jonestown Mystery,Mass Tragedy,Mystery,2052,706.50,true,2052-04-18,2024-01-16T15:00:00
+B442,The Anthropologist's Culture,Human Guide,Fiction,1967,67.75,true,1967-01-15,2024-01-13T11:15:00
+B443,Fenrir King,Wolf Ruler,Fantasy,2051,816.50,true,2051-10-10,2024-01-14T09:05:00
+B444,The Dimensional Travel,Dr. Multiverse Travel,Science Fiction,2053,211.50,true,2053-08-08,2024-01-16T22:15:00
+B445,The Bank Fraud,Financial Crime,Crime,2050,701.25,true,2050-03-03,2024-01-15T12:05:00
+B446,Love in Pristina,Kosovar Romance,Romance,2049,686.99,true,2049-12-12,2024-01-13T14:40:00
+B447,The Trail Ultra Marathon,Extreme Trail Run,Adventure,1973,669.99,true,1973-04-04,2024-01-14T11:25:00
+B448,The Taman Shud Mystery,Unidentified Body,Mystery,2053,768.75,true,2053-06-15,2024-01-16T13:20:00
+B449,The Linguist's Language,Communication Guide,Fiction,1966,69.00,true,1966-06-06,2024-01-15T17:10:00
+B450,Troll King,Bridge Ruler,Fantasy,2052,881.00,true,2052-02-29,2024-01-13T16:40:00
+B451,The Reality Warper,Dr. Existence,Science Fiction,2054,223.00,true,2054-05-05,2024-01-16T22:25:00
+B452,The Mortgage Fraud,Housing Crime,Crime,2051,757.75,true,2051-07-07,2024-01-14T09:40:00
+B453,Love in Skopje,Macedonian Romance,Romance,2050,748.50,true,2050-08-20,2024-01-15T10:20:00
+B454,The Snow Ultra Marathon,Extreme Snow Run,Adventure,1972,725.50,true,1972-11-11,2024-01-13T10:25:00
+B455,The Isdal Woman Mystery,Norwegian Mystery,Mystery,2054,834.50,true,2054-01-14,2024-01-16T14:40:00
+B456,The Philosopher's Wisdom,Thought Guide,Fiction,1965,70.25,true,1965-12-12,2024-01-14T09:15:00
+B457,Wendigo King,Cannibal Ruler,Fantasy,2053,948.50,true,2053-09-09,2024-01-15T15:30:00
+B458,The Time Machine,Dr. Chrono Device,Science Fiction,2055,235.50,true,2055-10-10,2024-01-16T22:35:00
+B459,The Tax Fraud,Government Crime,Crime,2052,817.25,true,2052-04-04,2024-01-13T16:15:00
+B460,Love in Tirana,Albanian Romance,Romance,2051,813.25,true,2051-03-17,2024-01-14T10:35:00
+B461,The Hill Ultra Marathon,Extreme Hill Run,Adventure,1971,784.25,true,1971-07-04,2024-01-15T10:00:00
+B462,The Somerton Man Mystery,Australian Mystery,Mystery,2055,904.25,true,2055-03-03,2024-01-16T12:15:00
+B463,The Theologian's Faith,Religion Guide,Fiction,1964,71.50,true,1964-03-08,2024-01-13T11:05:00
+B464,Harpy Queen,Bird-Woman Ruler,Fantasy,2054,1019.00,true,2054-12-25,2024-01-14T09:25:00
+B465,The Space Warp,Dr. Spatial Distortion,Science Fiction,2056,248.00,true,2056-07-07,2024-01-16T22:45:00
+B466,The Corporate Fraud,Business Crime,Crime,2053,879.75,true,2053-11-11,2024-01-15T11:40:00
+B467,Love in Chisinau,Moldovan Romance,Romance,2052,881.99,true,2052-06-06,2024-01-13T14:25:00
+B468,The Forest Ultra Marathon,Extreme Forest Run,Adventure,1970,846.99,true,1970-02-14,2024-01-14T11:15:00
+B469,The Babushka Lady Mystery,Kennedy Assassination,Mystery,2056,978.50,true,2056-08-08,2024-01-16T15:30:00
+B470,The Economist's Market,Financial Guide,Fiction,1963,72.75,true,1963-09-23,2024-01-15T16:55:00
+B471,Imp King,Mischief Ruler,Fantasy,2055,1092.50,true,2055-05-05,2024-01-13T17:00:00
+B472,The Gravity Manipulator,Dr. Weight,Science Fiction,2057,261.50,true,2057-04-18,2024-01-16T22:55:00
+B473,The Identity Theft,Personal Crime,Crime,2054,945.25,true,2054-08-08,2024-01-14T09:50:00
+B474,Love in Yerevan,Armenian Romance,Romance,2053,954.50,true,2053-01-01,2024-01-15T09:50:00
+B475,The River Ultra Marathon,Extreme River Run,Adventure,1969,913.50,true,1969-10-31,2024-01-13T10:50:00
+B476,The Max Headroom Mystery,TV Pirate Mystery,Mystery,2057,1057.75,true,2057-02-14,2024-01-16T13:05:00
+B477,The Political Scientist's Government,Policy Guide,Fiction,1962,74.00,true,1962-05-20,2024-01-14T09:35:00
+B478,Nymph Queen,Water-Spirit Ruler,Fantasy,2056,1169.00,true,2056-10-10,2024-01-15T14:55:00
+B479,The Molecular Assembler,Dr. Matter,Science Fiction,2058,275.00,true,2058-09-09,2024-01-16T23:05:00
+B480,The Insurance Fraud,False Claim Crime,Crime,2055,1014.75,true,2055-06-15,2024-01-13T16:25:00
+B481,Love in Tbilisi,Georgian Romance,Romance,2054,1031.25,true,2054-04-04,2024-01-14T10:45:00
+B482,The Desert Ultra Marathon,Extreme Desert Race,Adventure,1968,983.25,true,1968-08-18,2024-01-15T09:55:00
+B483,The Wow! Signal Mystery,Space Signal Mystery,Mystery,2058,1142.50,true,2058-12-12,2024-01-16T14:20:00
+B484,The Archaeologist's Dig,Historical Guide,Fiction,1961,75.25,true,1961-11-11,2024-01-13T11:50:00
+B485,Satyr King,Forest-Party Ruler,Fantasy,2057,1248.50,true,2057-03-14,2024-01-14T09:45:00
+B486,The Neural Interface,Dr. Brain,Science Fiction,2059,289.50,true,2059-01-15,2024-01-16T23:15:00
+B487,The Securities Fraud,Stock Crime,Crime,2056,1087.25,true,2056-02-28,2024-01-15T11:15:00
+B488,Love in Baku,Azerbaijani Romance,Romance,2055,1112.99,true,2055-07-07,2024-01-13T14:20:00
+B489,The Arctic Ultra Marathon,Extreme Arctic Run,Adventure,1967,1056.99,true,1967-05-05,2024-01-14T11:05:00
+B490,The Dyatlov Pass Mystery,Mountain Death Mystery,Mystery,2059,1233.25,true,2059-06-06,2024-01-16T12:40:00
+B491,The Historian's Past,Time Guide,Fiction,1960,76.50,true,1960-04-14,2024-01-15T17:00:00
+B492,Vampire King,Blood Ruler,Fantasy,2058,1331.00,true,2058-08-08,2024-01-13T17:15:00
+B493,The Quantum Computer,Dr. Qubit,Science Fiction,2060,304.00,true,2060-03-03,2024-01-16T23:25:00
+B494,The Bank Fraud,Financial Crime,Crime,2057,1162.75,true,2057-10-10,2024-01-14T09:20:00
+B495,Love in Ankara,Turkish Romance,Romance,2056,1199.50,true,2056-11-11,2024-01-15T09:40:00
+B496,The Mountain Ultra Marathon,Extreme Mountain Race,Adventure,1966,1134.50,true,1966-12-25,2024-01-13T10:30:00
+B497,The Hinterkaifeck Mystery,Farm Murder Mystery,Mystery,2060,1330.99,true,2060-10-31,2024-01-16T15:10:00
+B498,The Artist's Vision,Creative Guide,Fiction,1959,77.75,true,1959-07-07,2024-01-14T09:55:00
+B499,Werewolf King,Moon Ruler,Fantasy,2059,1416.50,true,2059-01-01,2024-01-15T14:15:00
+B500,The Final Frontier,Dr. Exploration,Science Fiction,2061,319.50,true,2061-05-05,2024-01-16T23:35:00
