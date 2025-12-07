@@ -2,6 +2,8 @@ package org.example;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.PrintWriter;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.*;
@@ -19,7 +21,6 @@ public class Main {
         System.out.println("Starting Library System...");
         loadBooks();
         showMenu();
-        int x=10;
     }
 
 
@@ -63,8 +64,12 @@ public class Main {
             System.out.println("5. Show available books");
             System.out.println("6. Borrow a book");
             System.out.println("7. Return a book");
-            System.out.println("8. Find Duplicates");
-            System.out.println("9. Exit");
+            System.out.println("8. Find duplicates");
+            System.out.println("9. Find book by ID ");
+            System.out.println("10. Find books by year range");
+            System.out.println("11. Show most expensive books (Stage 2)");
+            System.out.println("12. Export to CSV file");
+            System.out.println("13. Exit");
             System.out.print("Choose option: ");
 
             int choice = keyboard.nextInt();
@@ -96,6 +101,18 @@ public class Main {
                     findDuplicates();
                     break;
                 case 9:
+                    findBookById();
+                    break;
+                case 10:
+                    findBooksByYearRange();
+                    break;
+                case 11:
+                    showMostExpensiveBooks();
+                    break;
+                case 12:
+                    exportToCSV();
+                    break;
+                case 13:
                     System.out.println("Goodbye!");
                     return;
                 default:
@@ -226,6 +243,92 @@ public class Main {
         System.out.println("Total books loaded: " + books.size());
         System.out.println("Unique books found: " + uniqBooks.size());
         System.out.println("Duplicates removed: " + (books.size() - uniqBooks.size()));
+    }
+
+    public void findBookById() {
+        //create HashMap key=bookId val=Book object
+        Map<String, Book> bookMap = new HashMap<>();
+
+        //fill the map with all books
+        for (Book book : books) {
+            bookMap.put(book.getBookId(), book);
+        }
+
+        System.out.print("Enter book ID to find: ");
+        String id = keyboard.nextLine();
+
+        //instant lookup no searching through all books
+        Book found = bookMap.get(id);
+
+        if (found != null) {
+            System.out.println("Found: " + found);
+        } else {
+            System.out.println("Book " + id + " not found");
+        }
+    }
+
+    public void findBooksByYearRange() {
+        System.out.print("Enter start year: ");
+        int startYear = keyboard.nextInt();
+        System.out.print("Enter end year: ");
+        int endYear = keyboard.nextInt();
+        keyboard.nextLine();
+
+        System.out.println("Books published " + startYear + " - " + endYear + ":");
+        int count = 0;
+
+        for (Book book : books) {
+            if (book.getYear() >= startYear && book.getYear() <= endYear) {
+                System.out.println(book);
+                count++;
+            }
+        }
+
+        System.out.println("Found " + count + " books");
+    }
+
+    public void showMostExpensiveBooks() {
+        System.out.print("How many expensive books to show? ");
+        int n = keyboard.nextInt();
+        keyboard.nextLine();
+
+        // Create sorted copy
+        List<Book> sortedByPrice = new ArrayList<>(books);
+
+        // Sort by price highest first
+        Collections.sort(sortedByPrice, new Comparator<Book>() {
+            public int compare(Book b1, Book b2) {
+                // Compare b2 to b1 to get desc order highest first
+                return Double.compare(b2.getPrice(), b1.getPrice());
+            }
+        });
+
+        System.out.println("Top"+ n +"Most Expensive Books:");
+        for (int i = 0; i < Math.min(n, sortedByPrice.size()); i++) {
+            System.out.println((i+1) + ". " + sortedByPrice.get(i));
+        }
+    }
+
+    public void exportToCSV() {
+        try {
+            String filename = "library_export.csv";
+            PrintWriter writer = new PrintWriter(new FileWriter(filename));
+
+            writer.println("bookId,title,author,genre,year,price,available,publishDate,lastUpdated");
+
+            for (Book book : books) {
+                writer.printf("%s,%s,%s,%s,%d,%.2f,%s,%s,%s%n",
+                        book.getBookId(), book.getTitle(), book.getAuthor(), book.getGenre(),
+                        book.getYear(), book.getPrice(), book.isAvailable(),
+                        book.getPublishDate(), book.getLastUpdated());
+            }
+
+            writer.close();
+            System.out.println("Exported " + books.size() + " books to " + filename);
+
+        } catch (Exception e) {
+            System.out.println("Error exporting");
+        }
     }
 
 }

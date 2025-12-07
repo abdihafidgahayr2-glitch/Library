@@ -140,7 +140,7 @@ public class Book implements Comparable<Book> {
         //Convert o to a Book object
         Book other = (Book) o;
 
-        //Compare book ids casesensitive comparison
+        //Compare book ids case sensitive comparison
         return bookId.equals(other.bookId);
     }
 
